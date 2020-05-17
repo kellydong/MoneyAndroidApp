@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Money Tracker</string>
+    <string name="pick_a_date">Pick a Date</string>
+    <string name="pick_date">Pick Date</string>
+    <string name="create_chart">Create Chart</string>
+    <string name="expenses">Expenses</string>
+    <string name="recycle_title">Spending List</string>
+    <string name="name">Name</string>
+    <string name="insert">Insert</string>
+    <string name="amount">Amount</string>
+    <string name="save">Save</string>
+</resources>
